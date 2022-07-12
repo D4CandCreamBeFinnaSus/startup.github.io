@@ -14,5 +14,5 @@
 - Roblox
 - Steam
 - Visual Studio Code
-- Pycharm
+- Pycharm CE
 ```
